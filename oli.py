@@ -1,3 +1,5 @@
+#printing to the screen
+
 print("Hello")
 
 #data types:
@@ -8,11 +10,13 @@ print("1")
 
 #Variables:
 
-olis_name = "oli"
+olis_name = "oli" #This is a string
 
-oliAge = 14
+oliAge = 14 #This is a number
 
-is_oli_hot = False
+is_oli_hot = False #This is a boolean
+
+#We can print it out
 
 print(oliAge)
    
