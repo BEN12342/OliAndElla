@@ -1,0 +1,3 @@
+Homework:
+
+After this lesson, you have learnt input statements and while loops which you will need for this problem. Create a terminal login demo, which asks for name and password, if the name is already in the database (an array) don't login.
