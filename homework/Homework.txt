@@ -11,3 +11,6 @@ To begin on data structures, we will learn about stacks. A stack follows the rul
 
 Problem 6:
 To continue learning about stacks, we will learn about the towers of hanoi. Try do it yourself with the knowledge of how it works.
+
+Problem 7:
+
